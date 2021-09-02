@@ -31,7 +31,7 @@ a. [What is Data Science?]() - IBM - [Certificate](https://www.coursera.org/acco
 
 b. [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science) - IBM - [Certificate](https://www.coursera.org/account/accomplishments/verify/MRCLG6C7Z96B) - [PDF](PDF/Coursera-MRCLG6C7Z96B.pdf).
 
-c. [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology) - IBM - [Certificate](https://www.coursera.org/account/accomplishments/verify/NQW3UH69R24H) - [PDF](PDF/Coursera NQW3UH69R24H.pdf).
+c. [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology) - IBM - [Certificate](https://www.coursera.org/account/accomplishments/verify/NQW3UH69R24H) - [PDF](PDF/Coursera-NQW3UH69R24H.pdf).
 
 
 ## 5. Other:
