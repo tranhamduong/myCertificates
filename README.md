@@ -14,7 +14,7 @@ a. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-net
 b. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) - DeepLearning.AI - [Certificate](https://www.coursera.org/account/accomplishments/verify/N3PKPHFUSUAN) - [PDF](PDF/Coursera-N3PKPHFUSUAN.pdf).
 
 c. [Structuring Machine Learning Projects
-](https://www.coursera.org/learn/machine-learning-projects) - x - [Certificate](https://www.coursera.org/account/accomplishments/verify/SB97UYZ67Q2J) - [PDF](PDF/Coursera-SB97UYZ67Q2J.pdf).
+](https://www.coursera.org/learn/machine-learning-projects) - DeepLearning.AI - [Certificate](https://www.coursera.org/account/accomplishments/verify/SB97UYZ67Q2J) - [PDF](PDF/Coursera-SB97UYZ67Q2J.pdf).
 
 
 
@@ -23,7 +23,7 @@ a. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, an
 
 b. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) - DeepLearning.AI - Studying
 
-c. [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow) - DeepLearning.AI - [Certificate](https://www.coursera.org/account/accomplishments/verify/ZP4PWHELQ32W) - [PDF](PDF/Coursera-7Y5NFXK2F4PT.pdf).
+c. [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow) - DeepLearning.AI - [Certificate](https://www.coursera.org/account/accomplishments/verify/ZP4PWHELQ32W) - [PDF](PDF/Coursera-ZP4PWHELQ32W.pdf).
 
 
 ## 4. IBM Data Science Professional Certificate
