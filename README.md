@@ -21,7 +21,7 @@ c. [Structuring Machine Learning Projects
 ## 3. DeepLearning.AI TensorFlow Developer Professional Certificate
 a. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - DeepLearning.AI - [Certificate](https://www.coursera.org/account/accomplishments/verify/7Y5NFXK2F4PT) - [PDF](PDF/Coursera-7Y5NFXK2F4PT.pdf).
 
-b. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) - DeepLearning.AI - Studying
+b. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) - DeepLearning.AI - [Certificate](https://coursera.org/verify/W2QZ7ZFT4UGG) - [PDF](PDF/Coursera_W2QZ7ZFT4UGG.pdf).
 
 c. [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow) - DeepLearning.AI - [Certificate](https://www.coursera.org/account/accomplishments/verify/ZP4PWHELQ32W) - [PDF](PDF/Coursera-ZP4PWHELQ32W.pdf).
 
