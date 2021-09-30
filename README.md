@@ -19,7 +19,7 @@ c. [Structuring Machine Learning Projects
 d. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) - DeepLearning.AI - [Certificate](https://coursera.org/verify/W2QZ7ZFT4UGG) - [PDF](PDF/Coursera_W2QZ7ZFT4UGG.pdf).
 
 e. [Sequence Models
-](https://www.coursera.org/learn/nlp-sequence-models) - DeepLearning.AI - [Certificate]() - [PDF](PDF/).
+](https://www.coursera.org/learn/nlp-sequence-models) - DeepLearning.AI - [Certificate](https://coursera.org/verify/FFGDLKCWLFAP) - [PDF](PDF/Coursera_FFGDLKCWLFAP.pdf).
 
 
 ## 3. DeepLearning.AI TensorFlow Developer Professional Certificate
