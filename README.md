@@ -8,7 +8,7 @@
 
 - [Python Data Structures](https://www.coursera.org/learn/python-data) - University of Michigan - [Certificate](https://www.coursera.org/account/accomplishments/verify/Y834R94MS9QP) - [PDF](PDF/Coursera-Y834R94MS9QP.pdf).
 
-## 2. Deep Learning Specialization
+## 2. Deep Learning Specialization - DeepLearning.AI - [Certficate](https://coursera.org/verify/specialization/DDV573S23T9V) - [PDF](PDF/Coursera_DDV573S23T9V)
 a. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) - DeepLearning.AI - [Certificate](https://www.coursera.org/account/accomplishments/verify/9VSWU34V5KM7) - [PDF](PDF/Coursera-9VSWU34V5KM7.pdf).
 
 b. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) - DeepLearning.AI - [Certificate](https://www.coursera.org/account/accomplishments/verify/N3PKPHFUSUAN) - [PDF](PDF/Coursera-N3PKPHFUSUAN.pdf).
