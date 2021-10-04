@@ -27,7 +27,7 @@ a. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, an
 
 b. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) - DeepLearning.AI - [Certificate]() - [PDF](PDF/).
 
-c. [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow) - DeepLearning.AI - [Certificate](https://www.coursera.org/account/accomplishments/verify/ZP4PWHELQ32W) - [PDF](PDF/Coursera-ZP4PWHELQ32W.pdf).
+c. [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow) - DeepLearning.AI - [Certificate](https://coursera.org/verify/ZP4PWHELQ32W) - [PDF](PDF/Coursera-ZP4PWHELQ32W.pdf).
 
 d. [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) - DeepLearning.AI - [Certificate](https://coursera.org/verify/NMLDN598E2UC) - [PDF](PDF/Coursera_NMLDN598E2UC.pdf).
 
