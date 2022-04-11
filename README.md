@@ -1,6 +1,6 @@
 # myCertificates
 ## 1. Machine Learning / Deep Learning / Data Mining
-- [Machine Learning](https://www.coursera.org/learn/machine-learning) - Stanford University - [Certificate](https://coursera.org/verify/verify/UPCBWTZR2EKN) - [PDF](PDF/Coursera-UPCBWTZR2EKN.pdf).
+- [Machine Learning](https://www.coursera.org/learn/machine-learning) - Stanford University - [Certificate](https://coursera.org/verify/UPCBWTZR2EKN) - [PDF](PDF/Coursera-UPCBWTZR2EKN.pdf).
 
 - [Cluster Analysis in Data Mining](https://www.coursera.org/learn/cluster-analysis) - University of Illinois at Urbana-Champaign - [Certificate](https://coursera.org/verify/ARH376AKUXY8) - [PDF](PDF/Coursera-ARH376AKUXY8.pdf).
 
