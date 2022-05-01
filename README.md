@@ -39,9 +39,9 @@ b. [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for
 
 c. [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology) - IBM - [Certificate](https://coursera.org/verify/NQW3UH69R24H) - [PDF](PDF/Coursera-NQW3UH69R24H.pdf).
 
-d. [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) - IBM - [Certificate](https://coursera.org/verify/W635CHU6H57H) - [PDF]()
+d. [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) - IBM - [Certificate](https://coursera.org/verify/W635CHU6H57H) - [PDF](PDF/Coursera_W635CHU6H57H.pdf)
 
-e. [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) - IBM - [Certificate](https://coursera.org/verify/8HNL84JBZ8UA) - [PDF]()
+e. [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) - IBM - [Certificate](https://coursera.org/verify/8HNL84JBZ8UA) - [PDF](PDF/Coursera_8HNL84JBZ8UA.pdf)
 
 
 ## 5. Other:
