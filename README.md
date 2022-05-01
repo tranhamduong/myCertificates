@@ -39,6 +39,10 @@ b. [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for
 
 c. [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology) - IBM - [Certificate](https://coursera.org/verify/NQW3UH69R24H) - [PDF](PDF/Coursera-NQW3UH69R24H.pdf).
 
+d. [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) - IBM - [Certificate](https://coursera.org/verify/W635CHU6H57H) - [PDF]()
+
+e. [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) - IBM - [Certificate](https://coursera.org/verify/8HNL84JBZ8UA) - [PDF]()
+
 
 ## 5. Other:
 - [Create Your First Chatbot with Rasa and Python](https://www.coursera.org/projects/chatbot-rasa-python) - Coursera Project Network - [Certificate](https://coursera.org/verify/KNT7GUKZDJ6D) - [PDF](PDF/Coursera-KNT7GUKZDJ6D.pdf).
