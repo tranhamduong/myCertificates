@@ -52,6 +52,7 @@ e. [Python Project for Data Science](https://www.coursera.org/learn/python-proje
 
 ## 6. Workera
 - [AI Fluent](#) - Workera - [Certificate](https://app.workera.ai/public/candidate/certificate?code=C35BZTM1) - [PDF](PDF/AI+Fluent-C35BZTM1-certificate.pdf)
+- [AI Literate](#) - Workera - [Certificate](https://app.workera.ai/public/candidate/certificate?code=F8I6WVB1) - [PDF](PDF/AI+Literate-F8I6WVB1-certificate.pdf).
 
 ## 7. AWS
 
