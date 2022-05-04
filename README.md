@@ -49,8 +49,11 @@ e. [Python Project for Data Science](https://www.coursera.org/learn/python-proje
 
 - [Technical Writing](https://www.coursera.org/learn/technical-writing) - Moscow Institute of Physics and Technology - [Certificate](https://coursera.org/verify/BSV8AEBJP5L4) - [PDF](PDF/Coursera-BSV8AEBJP5L4.pdf).
 
+## 6. Workera
+- [AI Fluent](#) - Workera - [Certificate](https://app.workera.ai/public/candidate/certificate?code=C35BZTM1) - [PDF](PDF/AI+Fluent-C35BZTM1-certificate.pdf)
 
-#Template: []() - x - [Certificate]() - [PDF](PDF/).
+
+#Template: []() - x - [Certificate]() - [PDF]().
 
 
 
