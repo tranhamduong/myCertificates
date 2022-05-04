@@ -49,9 +49,15 @@ e. [Python Project for Data Science](https://www.coursera.org/learn/python-proje
 
 - [Technical Writing](https://www.coursera.org/learn/technical-writing) - Moscow Institute of Physics and Technology - [Certificate](https://coursera.org/verify/BSV8AEBJP5L4) - [PDF](PDF/Coursera-BSV8AEBJP5L4.pdf).
 
+
 ## 6. Workera
 - [AI Fluent](#) - Workera - [Certificate](https://app.workera.ai/public/candidate/certificate?code=C35BZTM1) - [PDF](PDF/AI+Fluent-C35BZTM1-certificate.pdf)
 
+## 7. AWS
+
+- [AWS Academy Graduate - AWS Academy Cloud Foundations](https://aws.amazon.com/training/awsacademy/) - x - [Certificate](https://www.credly.com/badges/db8b81e4-4ec0-4a92-b7a3-084df9ffd8e4).
+
+- [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) - x - [Certificate](https://www.credly.com/badges/3eb4b0e9-41a6-4cb9-a18b-d8626069a00c).
 
 #Template: []() - x - [Certificate]() - [PDF]().
 
