@@ -4,7 +4,7 @@
 
 - [Cluster Analysis in Data Mining](https://www.coursera.org/learn/cluster-analysis) - University of Illinois at Urbana-Champaign - [Certificate](https://coursera.org/verify/ARH376AKUXY8) - [PDF](PDF/Coursera-ARH376AKUXY8.pdf).
 
-- [Understanding and Visualizing Data with Python]() - University of Michigan - [Certificate](https://coursera.org/verify/Y3ZSCABYY6L9) - [PDF](PDF/Coursera-Y3ZSCABYY6L9.pdf).
+- [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data) - University of Michigan - [Certificate](https://coursera.org/verify/Y3ZSCABYY6L9) - [PDF](PDF/Coursera-Y3ZSCABYY6L9.pdf).
 
 - [Python Data Structures](https://www.coursera.org/learn/python-data) - University of Michigan - [Certificate](https://coursera.org/verify/Y834R94MS9QP) - [PDF](PDF/Coursera-Y834R94MS9QP.pdf).
 
