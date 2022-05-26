@@ -49,6 +49,8 @@ e. [Python Project for Data Science](https://www.coursera.org/learn/python-proje
 
 - [Technical Writing](https://www.coursera.org/learn/technical-writing) - Moscow Institute of Physics and Technology - [Certificate](https://coursera.org/verify/BSV8AEBJP5L4) - [PDF](PDF/Coursera-BSV8AEBJP5L4.pdf).
 
+- [Research Writing in the Sciences (2022)](https://moodle.inasp.info/course/view.php?id=271) - [INASP](https://www.inasp.info/) - [Certificate](https://moodle.inasp.info/mod/customcert/verify_certificate.php) - [PDF](PDF/Research_Writing_in_the_Sciences_2022_-_Merit.pdf). 
+
 
 ## 6. Workera
 - [AI Fluent](#) - Workera - [Certificate](https://app.workera.ai/public/candidate/certificate?code=C35BZTM1) - [PDF](PDF/AI+Fluent-C35BZTM1-certificate.pdf)
