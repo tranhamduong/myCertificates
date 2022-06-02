@@ -47,6 +47,8 @@ e. [Python Project for Data Science](https://www.coursera.org/learn/python-proje
 ## 5. Other:
 - [Create Your First Chatbot with Rasa and Python](https://www.coursera.org/projects/chatbot-rasa-python) - Coursera Project Network - [Certificate](https://coursera.org/verify/KNT7GUKZDJ6D) - [PDF](PDF/Coursera-KNT7GUKZDJ6D.pdf).
 
+[Fine Tune BERT for Text Classification with TensorFlow](https://www.coursera.org/projects/fine-tune-bert-tensorflow) - Coursera Project Network - [Certificate](https://coursera.org/verify/2F8QSFZ383MS) - [PDF](PDF/Coursera_2F8QSFZ383MS.pdf).
+
 - [Technical Writing](https://www.coursera.org/learn/technical-writing) - Moscow Institute of Physics and Technology - [Certificate](https://coursera.org/verify/BSV8AEBJP5L4) - [PDF](PDF/Coursera-BSV8AEBJP5L4.pdf).
 
 - [Research Writing in the Sciences (2022)](https://moodle.inasp.info/course/view.php?id=271) - [INASP](https://www.inasp.info/) - [Certificate](https://moodle.inasp.info/mod/customcert/verify_certificate.php) - [PDF](PDF/Research_Writing_in_the_Sciences_2022_-_Merit.pdf). 
