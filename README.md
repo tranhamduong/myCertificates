@@ -43,7 +43,9 @@ d. [Python for Data Science, AI & Development](https://www.coursera.org/learn/py
 
 e. [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) - IBM - [Certificate](https://coursera.org/verify/8HNL84JBZ8UA) - [PDF](PDF/Coursera_8HNL84JBZ8UA.pdf)
 
-f. [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python) - x - [Certificate]() - [PDF]().
+f. [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) - IBM - [Certificate]() - [PDF]().
+
+g. [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python) - IBM - [Certificate](https://coursera.org/verify/TU9WM8PUKC3F) - [PDF](PDF/Coursera_TU9WM8PUKC3F.pdf).
 
 
 ## 5. Other:
@@ -57,7 +59,7 @@ f. [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with
 
 
 ## 6. Workera
-- [AI Fluent](#) - Workera - [Certificate](https://app.workera.ai/public/candidate/certificate?code=C35BZTM1) - [PDF](PDF/AI+Fluent-C35BZTM1-certificate.pdf)
+- [AI Fluent](#) - Workera - [Certificate]([https://app.workera.ai/public/candidate/certificate?code=C35BZTM1] (https://app.workera.ai/public/candidate/certificate?code=KCY3JUO1)) - [PDF](PDF/AI+Fluent-KCY3JUO1-certificate.pdf)
 - [AI Literate](#) - Workera - [Certificate](https://app.workera.ai/public/candidate/certificate?code=F8I6WVB1) - [PDF](PDF/AI+Literate-F8I6WVB1-certificate.pdf).
 
 ## 7. AWS
