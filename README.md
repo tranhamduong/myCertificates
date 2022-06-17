@@ -43,6 +43,8 @@ d. [Python for Data Science, AI & Development](https://www.coursera.org/learn/py
 
 e. [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) - IBM - [Certificate](https://coursera.org/verify/8HNL84JBZ8UA) - [PDF](PDF/Coursera_8HNL84JBZ8UA.pdf)
 
+f. [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python) - x - [Certificate]() - [PDF]().
+
 
 ## 5. Other:
 - [Create Your First Chatbot with Rasa and Python](https://www.coursera.org/projects/chatbot-rasa-python) - Coursera Project Network - [Certificate](https://coursera.org/verify/KNT7GUKZDJ6D) - [PDF](PDF/Coursera-KNT7GUKZDJ6D.pdf).
