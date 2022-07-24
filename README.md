@@ -43,7 +43,7 @@ d. [Python for Data Science, AI & Development](https://www.coursera.org/learn/py
 
 e. [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) - IBM - [Certificate](https://coursera.org/verify/8HNL84JBZ8UA) - [PDF](PDF/Coursera_8HNL84JBZ8UA.pdf)
 
-f. [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) - IBM - [Certificate](PDF/Coursera_9Z34V78L3392) - [PDF](https://coursera.org/verify/9Z34V78L3392).
+f. [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) - IBM - [Certificate](https://coursera.org/verify/9Z34V78L3392) - [PDF](PDF/Coursera_9Z34V78L3392.pdf).
 
 g. [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python) - IBM - [Certificate](https://coursera.org/verify/TU9WM8PUKC3F) - [PDF](PDF/Coursera_TU9WM8PUKC3F.pdf).
 
