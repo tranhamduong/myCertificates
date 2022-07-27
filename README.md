@@ -68,6 +68,10 @@ g. [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with
 
 - [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) - x - [Certificate](https://www.credly.com/badges/3eb4b0e9-41a6-4cb9-a18b-d8626069a00c).
 
+## 8. Machine Learning Specialization - DeepLearning.AI + Stanford|Online 
+a. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) - x - [Certificate](https://coursera.org/verify/HSNXM2MSKGAT) - [PDF](PDF/Coursera_HSNXM2MSKGAT.pdf)
+
+
 #Template: []() - x - [Certificate]() - [PDF]().
 
 
