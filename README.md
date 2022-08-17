@@ -47,6 +47,8 @@ f. [Databases and SQL for Data Science with Python](https://www.coursera.org/lea
 
 g. [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python) - IBM - [Certificate](https://coursera.org/verify/TU9WM8PUKC3F) - [PDF](PDF/Coursera_TU9WM8PUKC3F.pdf).
 
+h. [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) - IBM - [Certificate](https://coursera.org/verify/AG4U82AP4VAM) - [PDF](PDF/Coursera_AG4U82AP4VAM.pdf).
+
 
 ## 5. Other:
 - [Create Your First Chatbot with Rasa and Python](https://www.coursera.org/projects/chatbot-rasa-python) - Coursera Project Network - [Certificate](https://coursera.org/verify/KNT7GUKZDJ6D) - [PDF](PDF/Coursera-KNT7GUKZDJ6D.pdf).
