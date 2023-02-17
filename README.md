@@ -74,7 +74,7 @@ h. [Data Visualization with Python](https://www.coursera.org/learn/python-for-da
 a. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) - DeepLearning.AI + Stanford|Online - [Certificate](https://coursera.org/verify/HSNXM2MSKGAT) - [PDF](PDF/Coursera_HSNXM2MSKGAT.pdf)
 
 ## 9. Big Data Specialiazation - University of California San Diego (UCSanDiego)
-a. [Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction) - UCSanDiego - [Certificate](#) - [PDF](#)
+a. [Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction) - UCSanDiego - [Certificate](https://coursera.org/verify/6PF6ZTMXQEEH) - [PDF](PDF/Coursera_6PF6ZTMXQEEH.pdf)
 b. [Big Data Modeling and Management Systems](https://www.coursera.org/learn/big-data-management) - UCSanDiego - [Certificate](#) - [PDF](#)
 
 
