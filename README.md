@@ -80,7 +80,10 @@ b. [Big Data Modeling and Management Systems](https://www.coursera.org/learn/big
 
 
 ## 10. KONG API Gateway - Kong Inc 
-a. [Kong Gateway Operations](https://education.konghq.com/courses/course-v1:kong+KGAC-201+Perpetual/course/) - x - [Certificate](https://www.credly.com/badges/cd67e5f7-4dfe-4455-af7a-3b4a442ae0ff/public_url).
+
+a. [Kong Gateway Foundations](https://education.konghq.com/courses/course-v1:kong+KGAC-101+Perpetual/about) - x - [Certificate](https://www.credly.com/badges/9a8dcfb7-c921-4d12-9365-c5044bf1bd35/public_url) 
+
+b. [Kong Gateway Operations](https://education.konghq.com/courses/course-v1:kong+KGAC-201+Perpetual/course/) - x - [Certificate](https://www.credly.com/badges/cd67e5f7-4dfe-4455-af7a-3b4a442ae0ff/public_url).
 
 #Template: []() - x - [Certificate]() - [PDF]().
 
