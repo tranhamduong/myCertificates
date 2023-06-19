@@ -85,6 +85,10 @@ a. [Kong Gateway Foundations](https://education.konghq.com/courses/course-v1:kon
 
 b. [Kong Gateway Operations](https://education.konghq.com/courses/course-v1:kong+KGAC-201+Perpetual/course/) - x - [Certificate](https://www.credly.com/badges/cd67e5f7-4dfe-4455-af7a-3b4a442ae0ff/public_url).
 
+## 11. Google Cloud Skill Boost
+a. First Public acccount [Profile](https://www.cloudskillsboost.google/public_profiles/f5548032-8090-4860-b9d5-9f2f959a5675)
+b. Second Second account: [Profile]()
+
 #Template: []() - x - [Certificate]() - [PDF]().
 
 
