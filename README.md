@@ -87,7 +87,10 @@ b. [Kong Gateway Operations](https://education.konghq.com/courses/course-v1:kong
 
 ## 11. Google Cloud Skill Boost
 a. First Public acccount [Profile](https://www.cloudskillsboost.google/public_profiles/f5548032-8090-4860-b9d5-9f2f959a5675)
-b. Second Second account: [Profile]()
+
+b. Second Second account: [Profile](https://www.cloudskillsboost.google/public_profiles/f9bf58d6-6995-4b45-a09a-1fd8fe6305ca)
+
+
 
 #Template: []() - x - [Certificate]() - [PDF]().
 
