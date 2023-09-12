@@ -78,6 +78,8 @@ a. [Introduction to Big Data](https://www.coursera.org/learn/big-data-introducti
 
 b. [Big Data Modeling and Management Systems](https://www.coursera.org/learn/big-data-management) - UCSanDiego - [Certificate](https://coursera.org/verify/QU4JU7RQRQUE) - [PDF](PDF/Coursera_QU4JU7RQRQUE.pdf)
 
+c. [Big Data Integration and Processing](https://www.coursera.org/learn/big-data-integration-processing) - UCSanDiego - [Certificate](https://coursera.org/verify/SB2Y5AJJ2BLX) - [PDF](PDF/Coursera_SB2Y5AJJ2BLX.pdf)
+
 
 ## 10. KONG API Gateway - Kong Inc 
 
