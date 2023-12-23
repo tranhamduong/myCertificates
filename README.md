@@ -80,6 +80,8 @@ b. [Big Data Modeling and Management Systems](https://www.coursera.org/learn/big
 
 c. [Big Data Integration and Processing](https://www.coursera.org/learn/big-data-integration-processing) - UCSanDiego - [Certificate](https://coursera.org/verify/SB2Y5AJJ2BLX) - [PDF](PDF/Coursera_SB2Y5AJJ2BLX.pdf)
 
+d. [Machine Learning With Big Data](https://www.coursera.org/learn/big-data-machine-learning) - UCSanDiego - [Certificate](https://coursera.org/verify/VBGPJ2ZQWLV8) - [PDF](PDF/Coursera_VBGPJ2ZQWLV8.pdf).
+
 
 ## 10. KONG API Gateway - Kong Inc 
 
