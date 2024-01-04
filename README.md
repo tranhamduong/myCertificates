@@ -84,6 +84,7 @@ c. [Big Data Integration and Processing](https://www.coursera.org/learn/big-data
 
 d. [Machine Learning With Big Data](https://www.coursera.org/learn/big-data-machine-learning) - UCSanDiego - [Certificate](https://coursera.org/verify/VBGPJ2ZQWLV8) - [PDF](PDF/Coursera_VBGPJ2ZQWLV8.pdf).
 
+e. [Graph Analytics for Big Data](https://www.coursera.org/learn/big-data-graph-analytics) - UCSanDiego - [Certificate](https://coursera.org/verify/6AXJV54LW3ES) = [PDF](PDF/Coursera_6AXJV54LW3ES.pdf)
 
 ## 10. KONG API Gateway - Kong Inc 
 
