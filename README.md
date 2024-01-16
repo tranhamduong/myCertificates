@@ -88,18 +88,20 @@ e. [Graph Analytics for Big Data](https://www.coursera.org/learn/big-data-graph-
 
 ## 10. KONG API Gateway - Kong Inc 
 
-a. [Kong Gateway Foundations](https://education.konghq.com/courses/course-v1:kong+KGAC-101+Perpetual/about) - x - [Certificate](https://www.credly.com/badges/9a8dcfb7-c921-4d12-9365-c5044bf1bd35/public_url) 
+a. [Kong Gateway Foundations](https://education.konghq.com/courses/course-v1:kong+KGAC-101+Perpetual/about) - Kong Academy - [Certificate](https://www.credly.com/badges/9a8dcfb7-c921-4d12-9365-c5044bf1bd35/public_url) 
 
-b. [Kong Gateway Operations](https://education.konghq.com/courses/course-v1:kong+KGAC-201+Perpetual/course/) - x - [Certificate](https://www.credly.com/badges/cd67e5f7-4dfe-4455-af7a-3b4a442ae0ff/public_url).
+b. [Kong Gateway Operations](https://education.konghq.com/courses/course-v1:kong+KGAC-201+Perpetual/course/) - Kong Academy - [Certificate](https://www.credly.com/badges/cd67e5f7-4dfe-4455-af7a-3b4a442ae0ff/public_url).
 
 ## 11. Google Cloud Skill Boost
 a. First Public profile: [Profile](https://www.cloudskillsboost.google/public_profiles/f5548032-8090-4860-b9d5-9f2f959a5675)
 
 b. Second Second profile: [Profile](https://www.cloudskillsboost.google/public_profiles/f9bf58d6-6995-4b45-a09a-1fd8fe6305ca)
 
+## 12. Google Project Management: Professional Certificate
 
+a. [Foundations of Project Management](https://www.coursera.org/learn/project-management-foundations?specialization=google-project-management) - Gooogle - [Certificate](https://coursera.org/verify/U27ET8J8QKP7) - [PDF](PDF/Coursera_U27ET8J8QKP7.pdf).
 
-#Template: []() - x - [Certificate]() - [PDF]().
+#Template: []() - x - [Certificate]() - [PDF](PDF/).
 
 
 
