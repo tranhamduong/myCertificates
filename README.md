@@ -101,6 +101,8 @@ b. Second Second profile: [Profile](https://www.cloudskillsboost.google/public_p
 
 a. [Foundations of Project Management](https://www.coursera.org/learn/project-management-foundations?specialization=google-project-management) - Gooogle - [Certificate](https://coursera.org/verify/U27ET8J8QKP7) - [PDF](PDF/Coursera_U27ET8J8QKP7.pdf).
 
+b. [Project Initiation: Starting a Successful Project](https://www.coursera.org/learn/project-initiation-google) - Gooogle - [Certificate](https://coursera.org/verify/LEFX3VZA3HFT) - [PDF](PDF/Coursera_LEFX3VZA3HFT.pdf).
+
 #Template: []() - x - [Certificate]() - [PDF](PDF/).
 
 
