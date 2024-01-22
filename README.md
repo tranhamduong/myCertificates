@@ -103,7 +103,9 @@ a. [Foundations of Project Management](https://www.coursera.org/learn/project-ma
 
 b. [Project Initiation: Starting a Successful Project](https://www.coursera.org/learn/project-initiation-google) - Gooogle - [Certificate](https://coursera.org/verify/LEFX3VZA3HFT) - [PDF](PDF/Coursera_LEFX3VZA3HFT.pdf).
 
-c. [ Project Execution: Running the Project](https://www.coursera.org/learn/project-execution-google) - Gooogle - [Certificate](https://coursera.org/verify/54FQ8FJ9RKQT) - [PDF](PDF/Coursera_54FQ8FJ9RKQT.pdf).
+c. [Project Planning: Putting It All Together](https://www.coursera.org/learn/project-planning-google) - Gooogle - [Certificate](https://coursera.org/verify/GBYQMSDC48RK) - [PDF](PDF/Coursera_GBYQMSDC48RK.pdf).
+
+d. [ Project Execution: Running the Project](https://www.coursera.org/learn/project-execution-google) - Gooogle - [Certificate](https://coursera.org/verify/54FQ8FJ9RKQT) - [PDF](PDF/Coursera_54FQ8FJ9RKQT.pdf).
 
 #Template: []() - x - [Certificate]() - [PDF](PDF/).
 
