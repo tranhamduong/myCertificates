@@ -105,7 +105,9 @@ b. [Project Initiation: Starting a Successful Project](https://www.coursera.org/
 
 c. [Project Planning: Putting It All Together](https://www.coursera.org/learn/project-planning-google) - Gooogle - [Certificate](https://coursera.org/verify/GBYQMSDC48RK) - [PDF](PDF/Coursera_GBYQMSDC48RK.pdf).
 
-d. [ Project Execution: Running the Project](https://www.coursera.org/learn/project-execution-google) - Gooogle - [Certificate](https://coursera.org/verify/54FQ8FJ9RKQT) - [PDF](PDF/Coursera_54FQ8FJ9RKQT.pdf).
+d. [Project Execution: Running the Project](https://www.coursera.org/learn/project-execution-google) - Gooogle - [Certificate](https://coursera.org/verify/54FQ8FJ9RKQT) - [PDF](PDF/Coursera_54FQ8FJ9RKQT.pdf).
+
+e. [Agile Project Management](https://www.coursera.org/learn/agile-project-management) - Gooogle - [Certificate](https://coursera.org/verify/NXFRNENUMT8P) - [PDF](PDF/Coursera_NXFRNENUMT8P.pdf).
 
 #Template: []() - x - [Certificate]() - [PDF](PDF/).
 
