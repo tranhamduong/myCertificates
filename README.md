@@ -97,7 +97,7 @@ a. First Public profile: [Profile](https://www.cloudskillsboost.google/public_pr
 
 b. Second Second profile: [Profile](https://www.cloudskillsboost.google/public_profiles/f9bf58d6-6995-4b45-a09a-1fd8fe6305ca)
 
-## 12. Google Project Management: Professional Certificate
+## 12. Google Project Management: Professional Certificate - [Certificate](https://coursera.org/verify/professional-cert/FGQ92UTJMR2P) - [PDF](PDF/Coursera_FGQ92UTJMR2P.pdf)
 
 a. [Foundations of Project Management](https://www.coursera.org/learn/project-management-foundations?specialization=google-project-management) - Gooogle - [Certificate](https://coursera.org/verify/U27ET8J8QKP7) - [PDF](PDF/Coursera_U27ET8J8QKP7.pdf).
 
