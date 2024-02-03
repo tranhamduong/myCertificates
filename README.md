@@ -109,6 +109,8 @@ d. [Project Execution: Running the Project](https://www.coursera.org/learn/proje
 
 e. [Agile Project Management](https://www.coursera.org/learn/agile-project-management) - Gooogle - [Certificate](https://coursera.org/verify/NXFRNENUMT8P) - [PDF](PDF/Coursera_NXFRNENUMT8P.pdf).
 
+f. [Capstone: Applying Project Management in the Real World](https://www.coursera.org/learn/applying-project-management) - Google - [Certificate](https://coursera.org/verify/372WS5H7ZGS4) - [PDF](PDF/Coursera_372WS5H7ZGS4.pdf).
+
 #Template: []() - x - [Certificate]() - [PDF](PDF/).
 
 
