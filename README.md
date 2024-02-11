@@ -75,7 +75,7 @@ i. [Machine Learning with Python](https://www.coursera.org/learn/machine-learnin
 ## 8. Machine Learning Specialization - DeepLearning.AI + Stanford|Online 
 a. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) - DeepLearning.AI + Stanford|Online - [Certificate](https://coursera.org/verify/HSNXM2MSKGAT) - [PDF](PDF/Coursera_HSNXM2MSKGAT.pdf)
 
-## 9. Big Data Specialiazation - University of California San Diego (UCSanDiego)
+## 9. Big Data Specialiazation - University of California San Diego (UCSanDiego) - [Certificate](https://coursera.org/verify/specialization/3XM9P98TSMNC) - [PDF](PDF/Coursera_3XM9P98TSMNC.pdf)
 a. [Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction) - UCSanDiego - [Certificate](https://coursera.org/verify/6PF6ZTMXQEEH) - [PDF](PDF/Coursera_6PF6ZTMXQEEH.pdf)
 
 b. [Big Data Modeling and Management Systems](https://www.coursera.org/learn/big-data-management) - UCSanDiego - [Certificate](https://coursera.org/verify/QU4JU7RQRQUE) - [PDF](PDF/Coursera_QU4JU7RQRQUE.pdf)
@@ -84,7 +84,10 @@ c. [Big Data Integration and Processing](https://www.coursera.org/learn/big-data
 
 d. [Machine Learning With Big Data](https://www.coursera.org/learn/big-data-machine-learning) - UCSanDiego - [Certificate](https://coursera.org/verify/VBGPJ2ZQWLV8) - [PDF](PDF/Coursera_VBGPJ2ZQWLV8.pdf).
 
-e. [Graph Analytics for Big Data](https://www.coursera.org/learn/big-data-graph-analytics) - UCSanDiego - [Certificate](https://coursera.org/verify/6AXJV54LW3ES) = [PDF](PDF/Coursera_6AXJV54LW3ES.pdf)
+e. [Graph Analytics for Big Data](https://www.coursera.org/learn/big-data-graph-analytics) - UCSanDiego - [Certificate](https://coursera.org/verify/6AXJV54LW3ES) - [PDF](PDF/Coursera_6AXJV54LW3ES.pdf)
+
+f. [Big Data - Capstone Project](https://www.coursera.org/learn/big-data-project) - UCSanDiego - [Certificate](https://coursera.org/verify/LEQJKRM46YRK) - [PDF](PDF/Coursera_LEQJKRM46YRK.pdf).
+
 
 ## 10. KONG API Gateway - Kong Inc 
 
