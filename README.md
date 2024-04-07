@@ -32,7 +32,7 @@ c. [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/na
 d. [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) - DeepLearning.AI - [Certificate](https://coursera.org/verify/NMLDN598E2UC) - [PDF](PDF/Coursera_NMLDN598E2UC.pdf).
 
 
-## 4. IBM Data Science Professional Certificate
+## 4. IBM Data Science Professional Certificate - IBM - [Certificate](https://coursera.org/verify/professional-cert/Q9V6PU532Y2D) - [PDF](PDF/Coursera_Q9V6PU532Y2D.pdf)
 a. [What is Data Science?]() - IBM - [Certificate](https://coursera.org/verify/MJZBV4TUZ3LV) - [PDF](PDF/Coursera-MJZBV4TUZ3LV.pdf).
 
 b. [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science) - IBM - [Certificate](https://coursera.org/verify/MRCLG6C7Z96B) - [PDF](PDF/Coursera-MRCLG6C7Z96B.pdf).
