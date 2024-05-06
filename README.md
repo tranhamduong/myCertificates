@@ -6,6 +6,8 @@
 
 - [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data) - University of Michigan - [Certificate](https://coursera.org/verify/Y3ZSCABYY6L9) - [PDF](PDF/Coursera-Y3ZSCABYY6L9.pdf).
 
+- [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) - DeepLearning.AI - [Certificate](https://coursera.org/verify/QUHVZAMAQRZ8) - [PDF](PDF/Coursera_QUHVZAMAQRZ8.pdf)
+
 - [Python Data Structures](https://www.coursera.org/learn/python-data) - University of Michigan - [Certificate](https://coursera.org/verify/Y834R94MS9QP) - [PDF](PDF/Coursera-Y834R94MS9QP.pdf).
 
 ## 2. Deep Learning Specialization - DeepLearning.AI - [Certficate](https://coursera.org/verify/specialization/DDV573S23T9V) - [PDF](PDF/Coursera-DDV573S23T9V.pdf)
