@@ -72,6 +72,8 @@ i. [Machine Learning with Python](https://www.coursera.org/learn/machine-learnin
 
 - [AWS Academy Graduate - AWS Academy Cloud Foundations](https://aws.amazon.com/training/awsacademy/) - x - [Certificate](https://www.credly.com/badges/db8b81e4-4ec0-4a92-b7a3-084df9ffd8e4).
 
+- [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/courses/134/aws-cloud-practitioner-essentials) - [PDF](PDF/134_3_7237074_1742808059_AWS_Course_Completion_Certificate.pdf).
+
 - [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) - x - [Certificate](https://www.credly.com/badges/3eb4b0e9-41a6-4cb9-a18b-d8626069a00c).
 
 ## 8. Machine Learning Specialization - DeepLearning.AI + Stanford|Online 
