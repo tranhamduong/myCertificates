@@ -127,7 +127,7 @@ a. [Introduction to Data Engineering](https://www.coursera.org/learn/introductio
 ## 14. DeepLearning.AI Data Engineering Professional Certificate
 a. [Introduction to Data Engineering](https://www.coursera.org/learn/intro-to-data-engineering) - AWS & DeepLearning.AI - [Certificate](https://coursera.org/verify/RHR11J7KS48W) - [PDF](PDF/Coursera_RHR11J7KS48W.pdf).
 
-b. [Source Systems, Data Ingestion, and Pipelines]([https://www.coursera.org/learn/intro-to-data-engineering](https://www.coursera.org/learn/source-systems-data-ingestion-and-pipelines)) - AWS & DeepLearning.AI - [Certificate](https://coursera.org/verify/1JNE6KYVYP2G) - [PDF](PDF/Coursera-1JNE6KYVYP2G.pdf).
+b. [Source Systems, Data Ingestion, and Pipelines](https://www.coursera.org/learn/source-systems-data-ingestion-and-pipelines) - AWS & DeepLearning.AI - [Certificate](https://coursera.org/verify/1JNE6KYVYP2G) - [PDF](PDF/Coursera-1JNE6KYVYP2G.pdf).
 
 
 
