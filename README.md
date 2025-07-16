@@ -129,6 +129,7 @@ a. [Introduction to Data Engineering](https://www.coursera.org/learn/intro-to-da
 
 b. [Source Systems, Data Ingestion, and Pipelines](https://www.coursera.org/learn/source-systems-data-ingestion-and-pipelines) - AWS & DeepLearning.AI - [Certificate](https://coursera.org/verify/1JNE6KYVYP2G) - [PDF](PDF/Coursera-1JNE6KYVYP2G.pdf).
 
+c. [Data Storage and Queries](https://www.coursera.org/learn/data-storage-and-queries) - AWS & DeepLearning.AI - [Certificate](https://coursera.org/verify/SX77LTTV86LY) - [PDF](PDF/Coursera_SX77LTTV86LY.pdf).
 
 
 
