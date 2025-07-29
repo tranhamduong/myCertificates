@@ -124,13 +124,14 @@ f. [Capstone: Applying Project Management in the Real World](https://www.courser
 a. [Introduction to Data Engineering](https://www.coursera.org/learn/introduction-to-data-engineering) - IBM - [Certificate](https://coursera.org/verify/8SR1IZY5DJUI) - [PDF](PDF/Coursera-8SR1IZY5DJUI.pdf).
 
 
-## 14. DeepLearning.AI Data Engineering Professional Certificate
+## 14. DeepLearning.AI Data Engineering Professional Certificate - [Certificate](https://coursera.org/verify/professional-cert/FGMB9L80PA76) - [PDF](PDF/Coursera-FGMB9L80PA76.pdf)
 a. [Introduction to Data Engineering](https://www.coursera.org/learn/intro-to-data-engineering) - AWS & DeepLearning.AI - [Certificate](https://coursera.org/verify/RHR11J7KS48W) - [PDF](PDF/Coursera_RHR11J7KS48W.pdf).
 
 b. [Source Systems, Data Ingestion, and Pipelines](https://www.coursera.org/learn/source-systems-data-ingestion-and-pipelines) - AWS & DeepLearning.AI - [Certificate](https://coursera.org/verify/1JNE6KYVYP2G) - [PDF](PDF/Coursera-1JNE6KYVYP2G.pdf).
 
 c. [Data Storage and Queries](https://www.coursera.org/learn/data-storage-and-queries) - AWS & DeepLearning.AI - [Certificate](https://coursera.org/verify/SX77LTTV86LY) - [PDF](PDF/Coursera_SX77LTTV86LY.pdf).
 
+d. [Data Modeling, Transformation, and Serving](https://www.coursera.org/learn/data-modeling-transformation-serving) - AWS & DeepLearning.AI - [Certificate](https://coursera.org/verify/VRY2WOCQBLER) - [PDF](PDF/Coursera-VRY2WOCQBLER.pdf).
 
 
 
