@@ -138,6 +138,8 @@ d. [Data Modeling, Transformation, and Serving](https://www.coursera.org/learn/d
 
 a. [Introduction to Generative AI for Software Development](https://www.coursera.org/learn/introduction-to-generative-ai-for-software-development) - DeepLearning.AI - [Certificate](https://coursera.org/verify/SD2Z7D9YFHNA) - [PDF](PDF/Coursera_SD2Z7D9YFHNA.pdf).
 
+b. [Team Software Engineering with AI](https://www.coursera.org/learn/team-software-engineering-with-ai) - DeepLearning.AI - [Certificate](https://coursera.org/verify/QT4HUMGLU7CI) - [PDF](PDF/Coursera_QT4HUMGLU7CI.pdf).
+
 
 
 
