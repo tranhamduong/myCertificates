@@ -134,7 +134,7 @@ c. [Data Storage and Queries](https://www.coursera.org/learn/data-storage-and-qu
 d. [Data Modeling, Transformation, and Serving](https://www.coursera.org/learn/data-modeling-transformation-serving) - AWS & DeepLearning.AI - [Certificate](https://coursera.org/verify/VRY2WOCQBLER) - [PDF](PDF/Coursera-VRY2WOCQBLER.pdf).
 
 
-## 15. Generative AI for Software Development Skill Certificate - [Certificate]() - [PDF](PDF/Coursera_OORILJ28YNPM.pdf)
+## 15. Generative AI for Software Development Skill Certificate - [Certificate](https://coursera.org/verify/professional-cert/OORILJ28YNPM) - [PDF](PDF/Coursera_OORILJ28YNPM.pdf)
 
 a. [Introduction to Generative AI for Software Development](https://www.coursera.org/learn/introduction-to-generative-ai-for-software-development) - DeepLearning.AI - [Certificate](https://coursera.org/verify/SD2Z7D9YFHNA) - [PDF](PDF/Coursera_SD2Z7D9YFHNA.pdf).
 
