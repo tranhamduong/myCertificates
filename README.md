@@ -143,8 +143,9 @@ b. [Team Software Engineering with AI](https://www.coursera.org/learn/team-softw
 c. [AI-Powered Software and System Design](https://www.coursera.org/learn/ai-powered-software-and-system-design) - DeepLearning.AI - [Certificate](https://coursera.org/verify/O6H4ET1AIRXV) - [PDF](PDF/Coursera_O6H4ET1AIRXV.pdf).
 
 
+## 16. Modern Natural Language Processing Specialization - [Certificate]() - [PDF]()
 
-
+a. [Modern Natural Language Processing Specialization](https://www.coursera.org/specializations/packt-modern-natural-language-processing) - Packt - [Certificate](https://coursera.org/verify/0XKL4DDU89OB) - [PDF](PDF/Coursera-0XKL4DDU89OB.pdf)
 
 
 #Template: []() - x - [Certificate]() - [PDF](PDF/).
