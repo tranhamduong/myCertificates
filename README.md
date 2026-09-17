@@ -145,10 +145,10 @@ c. [AI-Powered Software and System Design](https://www.coursera.org/learn/ai-pow
 
 ## 16. Modern Natural Language Processing Specialization - [Certificate]() - [PDF]()
 
-a. [Modern Natural Language Processing Specialization](https://www.coursera.org/specializations/packt-modern-natural-language-processing) - Packt - [Certificate](https://coursera.org/verify/0XKL4DDU89OB) - [PDF](PDF/Coursera-0XKL4DDU89OB.pdf)
+a. [Natural Language Processing - Deep Learning Models in Python](https://www.coursera.org/programs/eightfold-pliic/learn/packt-natural-language-processing-deep-learning-models-in-python-xxklc) - Packt - [Certificate](https://coursera.org/verify/0XKL4DDU89OB) - [PDF](PDF/Coursera-0XKL4DDU89OB.pdf)
 
+b. [Natural Language Processing - Probability Models in Python](https://www.coursera.org/learn/packt-natural-language-processing-probability-models-in-python-lkj3g) - Packt - [Certificate](https://coursera.org/verify/C986MWU1BTX5) - [PDF](PDF/Coursera-C986MWU1BTX5.pdf)
 
 #Template: []() - x - [Certificate]() - [PDF](PDF/).
-
 
 
