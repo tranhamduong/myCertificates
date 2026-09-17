@@ -143,11 +143,13 @@ b. [Team Software Engineering with AI](https://www.coursera.org/learn/team-softw
 c. [AI-Powered Software and System Design](https://www.coursera.org/learn/ai-powered-software-and-system-design) - DeepLearning.AI - [Certificate](https://coursera.org/verify/O6H4ET1AIRXV) - [PDF](PDF/Coursera_O6H4ET1AIRXV.pdf).
 
 
-## 16. Modern Natural Language Processing Specialization - [Certificate]() - [PDF]()
+## 16. Modern Natural Language Processing Specialization - [Certificate](https://coursera.org/verify/specialization/OS6EN1CY14SR) - [PDF](PDF/Coursera-OS6EN1CY14SR.pdf)
 
 a. [Natural Language Processing - Deep Learning Models in Python](https://www.coursera.org/learn/packt-natural-language-processing-deep-learning-models-in-python-xxklc) - Packt - [Certificate](https://coursera.org/verify/0XKL4DDU89OB) - [PDF](PDF/Coursera-0XKL4DDU89OB.pdf)
 
 b. [Natural Language Processing - Probability Models in Python](https://www.coursera.org/learn/packt-natural-language-processing-probability-models-in-python-lkj3g) - Packt - [Certificate](https://coursera.org/verify/C986MWU1BTX5) - [PDF](PDF/Coursera-C986MWU1BTX5.pdf)
+
+c. [Natural Language Processing - Transformers with Hugging Face](https://www.coursera.org/learn/packt-natural-language-processing-transformers-with-hugging-face-ydvmi) - Packt - [Certificate](https://coursera.org/verify/X589QTB8BMK8) - [PDF](PDF/Coursera-X589QTB8BMK8.pdf)
 
 #Template: []() - x - [Certificate]() - [PDF](PDF/).
 
