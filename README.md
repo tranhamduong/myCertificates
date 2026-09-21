@@ -151,6 +151,11 @@ b. [Natural Language Processing - Probability Models in Python](https://www.cour
 
 c. [Natural Language Processing - Transformers with Hugging Face](https://www.coursera.org/learn/packt-natural-language-processing-transformers-with-hugging-face-ydvmi) - Packt - [Certificate](https://coursera.org/verify/X589QTB8BMK8) - [PDF](PDF/Coursera-X589QTB8BMK8.pdf)
 
+## 17. AI Engineer Professional Specialization - [Certificate]() - [PDF]()
+
+a. [Foundations of Model Optimization and Deep Learning](https://www.coursera.org/learn/packt-foundations-of-model-optimization-and-deep-learning-s8p1m) - Packt - [Certificate](https://coursera.org/verify/WUEO1LULS4HR) - [PDF](PDF/Coursera-WUEO1LULS4HR.pdf)
+
+
 #Template: []() - x - [Certificate]() - [PDF](PDF/).
 
 
