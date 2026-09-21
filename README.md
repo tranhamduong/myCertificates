@@ -61,7 +61,9 @@ i. [Machine Learning with Python](https://www.coursera.org/learn/machine-learnin
 
 - [Technical Writing](https://www.coursera.org/learn/technical-writing) - Moscow Institute of Physics and Technology - [Certificate](https://coursera.org/verify/BSV8AEBJP5L4) - [PDF](PDF/Coursera-BSV8AEBJP5L4.pdf).
 
-- [Research Writing in the Sciences (2022)](https://moodle.inasp.info/course/view.php?id=271) - [INASP](https://www.inasp.info/) - [Certificate](https://moodle.inasp.info/mod/customcert/verify_certificate.php) - [PDF](PDF/Research_Writing_in_the_Sciences_2022_-_Merit.pdf). 
+- [Research Writing in the Sciences (2022)](https://moodle.inasp.info/course/view.php?id=271) - [INASP](https://www.inasp.info/) - [Certificate](https://moodle.inasp.info/mod/customcert/verify_certificate.php) - [PDF](PDF/Research_Writing_in_the_Sciences_2022_-_Merit.pdf).
+
+- [Google AI Riser Vietnam 2026](https://rsvp.withgoogle.com/events/airiservietnam) - [PDF](PDF/Certificate-GG-AIRiser.pdf)
 
 
 ## 6. Workera
