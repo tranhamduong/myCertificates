@@ -157,6 +157,10 @@ c. [Natural Language Processing - Transformers with Hugging Face](https://www.co
 
 a. [Foundations of Model Optimization and Deep Learning](https://www.coursera.org/learn/packt-foundations-of-model-optimization-and-deep-learning-s8p1m) - Packt - [Certificate](https://coursera.org/verify/WUEO1LULS4HR) - [PDF](PDF/Coursera-WUEO1LULS4HR.pdf)
 
+b. [Sequence Modeling, Transformers, and Transfer Learning](https://www.coursera.org/learn/packt-sequence-modeling-transformers-and-transfer-learning-s8p1m) - Packt - [Certificate](https://coursera.org/verify/NGISY23VPQF6) - [PDF](PDF/Coursera-NGISY23VPQF6.pdf)
+
+NGISY23VPQF6
+
 
 #Template: []() - x - [Certificate]() - [PDF](PDF/).
 
