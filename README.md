@@ -159,7 +159,8 @@ a. [Foundations of Model Optimization and Deep Learning](https://www.coursera.or
 
 b. [Sequence Modeling, Transformers, and Transfer Learning](https://www.coursera.org/learn/packt-sequence-modeling-transformers-and-transfer-learning-s8p1m) - Packt - [Certificate](https://coursera.org/verify/NGISY23VPQF6) - [PDF](PDF/Coursera-NGISY23VPQF6.pdf)
 
-NGISY23VPQF6
+
+c. [AI Agents and MLOps for Production-Ready AI](https://www.coursera.org/learn/packt-ai-agents-and-mlops-for-production-ready-ai-s8p1m) - Packt - [Certificate](https://coursera.org/verify/NZES4EUSY4F3) - [PDF](PDF/Coursera-NZES4EUSY4F3.pdf)
 
 
 #Template: []() - x - [Certificate]() - [PDF](PDF/).
