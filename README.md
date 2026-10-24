@@ -159,8 +159,22 @@ a. [Foundations of Model Optimization and Deep Learning](https://www.coursera.or
 
 b. [Sequence Modeling, Transformers, and Transfer Learning](https://www.coursera.org/learn/packt-sequence-modeling-transformers-and-transfer-learning-s8p1m) - Packt - [Certificate](https://coursera.org/verify/NGISY23VPQF6) - [PDF](PDF/Coursera-NGISY23VPQF6.pdf)
 
-
 c. [AI Agents and MLOps for Production-Ready AI](https://www.coursera.org/learn/packt-ai-agents-and-mlops-for-production-ready-ai-s8p1m) - Packt - [Certificate](https://coursera.org/verify/NZES4EUSY4F3) - [PDF](PDF/Coursera-NZES4EUSY4F3.pdf)
+
+
+## 18. IBM Relational Database Administrator with GenAI Professional Certificate
+
+1. [Introduction to Data Engineering](https://www.coursera.org/learn/introduction-to-data-engineering) - IBM - [Certificate](https://coursera.org/verify/RHR11J7KS48W) - [PDF](PDF/Coursera_RHR11J7KS48W.pdf)
+2. [Introduction to Relational Databases (RDBMS)](https://www.coursera.org/learn/introduction-to-relational-databases) - IBM - [Certificate](https://coursera.org/verify/D0TCWER5RTSC) - [PDF](PDF/Coursera-D0TCWER5RTSC.pdf)
+3. [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) - IBM - [Certificate](https://coursera.org/verify/W635CHU6H57H) - [PDF](PDF/Coursera_W635CHU6H57H.pdf)
+4. [Foundations of Model Optimization and Deep Learning](https://www.coursera.org/learn/python-project-for-data-engineering) - IBM - 
+5. [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) - IBM - [Certificate](https://coursera.org/verify/9Z34V78L3392) - [PDF](PDF/Coursera_9Z34V78L3392.pdf)
+6. [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting) - IBM - 
+7. [ETL and Data Pipelines with Shell, Airflow and Kafka](https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka) - IBM - 
+8. [Data Warehouse Fundamentals](https://www.coursera.org/learn/data-warehouse-fundamentals) - IBM -
+9. [Relational Database Administration (DBA)](https://www.coursera.org/learn/relational-database-administration) - IBM -
+10. [Relational Database Administration Capstone Project](https://www.coursera.org/learn/relational-database-administration-capstone-project) - IBM -
+11. [Generative AI: Elevate your Data Engineering Career](https://www.coursera.org/learn/generative-ai-elevate-your-data-engineering-career) - IBM -
 
 
 #Template: []() - x - [Certificate]() - [PDF](PDF/).
